@@ -1,2 +1,2 @@
 # My Plate
-An open source project
+An open source project. Integrated with Travis.
